@@ -1,4 +1,3 @@
-# thkkjkdghbhhblckh
+# Repository
 
-mjhguh
-nhbhcujknhj
+this is my first repo :)
